@@ -3,7 +3,7 @@
 Complete Principal Component Analysis (PCA) implementation from scratch using only NumPy/Pandas - no scikit-learn.
 
 ## Quick Start
-``bash
+```bash
 # Install dependencies
 pip install numpy pandas matplotlib jupyter
 
