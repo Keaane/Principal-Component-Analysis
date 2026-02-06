@@ -1,4 +1,5 @@
-#PCA Manual Implementation
+#PCA Manual Implementation#
+
 ##Complete PCA implementation from scratch using only NumPy/Pandas.
 
 ##Quick Start
